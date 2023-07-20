@@ -15,6 +15,6 @@ z += i;
 }
 i++;
 }
-printf('%d\n', d);
+printf('%d\n', z);
 return (0);
 }
