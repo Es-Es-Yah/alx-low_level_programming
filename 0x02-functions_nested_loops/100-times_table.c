@@ -3,7 +3,7 @@
  * print_times_table - Prints the 9 times table, starting with 0
  * @n: Number
  */
-void print_times_table(void)
+void print_times_table(int n)
 {
 int a, b, c;
 if (n >= 0 && n <= 15)
